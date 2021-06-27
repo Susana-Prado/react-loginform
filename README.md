@@ -1,7 +1,7 @@
 # React Login Form - TSX
 
-This is a Login App built using React, Typescript and Material UI. 
-Example using React useForm. 
+This is a simple login App built using React, Typescript and Material UI. 
+Example using React Hook Form. 
 
 ![image](https://user-images.githubusercontent.com/78540652/123549051-a8e33d00-d767-11eb-8dc8-fe754fa4368c.png)
 
