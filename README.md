@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# React Login Form - TSX
+
+This is a Login App built using React, Typescript and Material UI. 
+Example using React useForm. 
+
+![image](https://user-images.githubusercontent.com/78540652/123549051-a8e33d00-d767-11eb-8dc8-fe754fa4368c.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
